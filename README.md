@@ -1,2 +1,1 @@
-# Blueprint
-Made in Visual Studio
+# Box Class
